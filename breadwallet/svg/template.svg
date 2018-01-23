@@ -30,10 +30,6 @@
         </pattern>
         <image id="image-12" width="48" height="48" xlink:href="data:image/png;base64,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"></image>
         <rect id="path-13" x="0" y="0" width="1500" height="35"></rect>
-        <linearGradient x1="1.41638472e-14%" y1="50%" x2="100%" y2="50%" id="linearGradient-15">
-            <stop stop-color="#FCD46B" offset="0%"></stop>
-            <stop stop-color="#FFFFFF" offset="100%"></stop>
-        </linearGradient>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="template">
@@ -427,78 +423,78 @@
                 </mask>
                 <use id="Rectangle-2" fill-opacity="0.899999976" fill="#FFFFFF" xlink:href="#path-13"></use>
                 <g id="Group-4-Copy" mask="url(#mask-14)" font-family="Arimo-BoldItalic, Arimo" font-size="14" font-style="italic" font-weight="bold">
-                    <g transform="translate(-79.525692, 0.294118)">
-                        <text id="gralicoin-copy">
-                            <tspan x="64" y="21" fill="#505566">gralicoin</tspan>
+                    <g transform="translate(-1.525692, 8.294118)">
+                        <text id="garlicoin-copy-23">
+                            <tspan x="1478.52569" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-2">
-                            <tspan x="128" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin">
+                            <tspan x="1414.52569" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-3">
-                            <tspan x="192" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy">
+                            <tspan x="1350.52569" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-4">
-                            <tspan x="256" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-2">
+                            <tspan x="1286.52569" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-5">
-                            <tspan x="320" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-3">
+                            <tspan x="1221.52569" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-6">
-                            <tspan x="384" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-4">
+                            <tspan x="1157.52569" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-7">
-                            <tspan x="448" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-5">
+                            <tspan x="1093.52569" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-8">
-                            <tspan x="512" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-6">
+                            <tspan x="1028.52569" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-9">
-                            <tspan x="576" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-7">
+                            <tspan x="964.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-10">
-                            <tspan x="640" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-8">
+                            <tspan x="900.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-11">
-                            <tspan x="704" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-9">
+                            <tspan x="835.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-12">
-                            <tspan x="768" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-10">
+                            <tspan x="771.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-13">
-                            <tspan x="832" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-11">
+                            <tspan x="707.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-14">
-                            <tspan x="896" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-12">
+                            <tspan x="643.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-15">
-                            <tspan x="960" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-13">
+                            <tspan x="578.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-16">
-                            <tspan x="1024" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-14">
+                            <tspan x="514.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-17">
-                            <tspan x="1088" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-15">
+                            <tspan x="450.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-18">
-                            <tspan x="1152" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-16">
+                            <tspan x="385.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-19">
-                            <tspan x="1216" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-17">
+                            <tspan x="321.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-20">
-                            <tspan x="1280" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-18">
+                            <tspan x="257.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-21">
-                            <tspan x="1344" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-19">
+                            <tspan x="192.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-22">
-                            <tspan x="1408" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-20">
+                            <tspan x="128.525692" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-23">
-                            <tspan x="1472" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-21">
+                            <tspan x="64.5256917" y="13" fill="#505566">garlicoin</tspan>
                         </text>
-                        <text id="gralicoin-copy-24">
-                            <tspan x="1536" y="21" fill="#505566">gralicoin</tspan>
+                        <text id="garlicoin-copy-22">
+                            <tspan x="0" y="13" fill="#505566">garlicoin</tspan>
                         </text>
                     </g>
                 </g>
@@ -624,7 +620,6 @@
                         </text>
                     </g>
                 </g>
-                <rect id="Rectangle-2" fill="url(#linearGradient-15)" style="mix-blend-mode: color;" mask="url(#mask-14)" x="0" y="-1.94871795" width="1500" height="39.9487179"></rect>
             </g>
             <path d="M69.8336107,718.02642 C52.2958942,696.179378 50.8423626,670.476701 63.9143063,647.83543 C79.3208693,621.15048 104.438184,625.051404 147.915966,610.675556 C113.217853,637.866496 98.9318742,639.014482 84.0614811,664.770758 C73.8695759,682.423656 68.8894501,701.504477 69.8336107,718.02642 Z M187.134029,638.911767 C195.699426,678.885435 211.911861,699.666943 197.356176,724.87813 C183.712843,748.509075 160.336971,759.829595 132.143426,754.758316 C147.18503,747.229284 161.579349,732.863552 172.246072,714.388247 C186.155808,690.295876 182.528501,676.466506 187.134029,638.911767 Z M170.551614,771.360197 C190.723933,766.223803 207.172135,753.412262 217.645622,735.271651 C238.971432,698.334263 196.840581,627.830343 211.093626,557.487231 C241.882016,567.277376 262.089822,583.839215 262.035464,602.621861 C262.0012,614.461155 253.937033,625.418083 240.274397,634.352911 L245.127508,747.171005 C245.67667,759.979666 234.938651,770.800336 221.144147,771.339648 C220.793789,771.353346 220.443173,771.360197 220.092531,771.360197 L170.551614,771.360197 Z M128.631882,771.360197 L72.2592478,771.360197 C58.4537308,771.360197 47.2363612,760.967526 47.2045514,748.147516 C47.2037435,747.821904 47.2103179,747.496329 47.2242706,747.171005 L48.6418289,714.217662 C57.360443,730.024583 71.8164176,744.834677 92.586734,756.826425 C104.970626,763.976268 117.069904,768.733057 128.631882,771.360197 Z M51.3076852,633.84345 C38.1123799,625.00303 30.3499305,614.237087 30.3163149,602.621861 C30.2292672,572.544146 82.1013655,548.16134 146.175889,548.16134 C167.687105,548.16134 187.822996,550.909505 205.079211,555.698706 C154.92653,600.965411 76.0649583,600.911775 51.3076852,633.84345 Z M98.5456447,742.906685 C81.0845036,732.825491 85.7588507,702.21377 104.906738,669.048657 C124.914911,634.393484 146.605618,630.478053 192.685035,583.776761 C173.52751,645.918953 179.204406,666.041906 159.328027,700.468803 C139.670413,734.516789 116.006786,752.98788 98.5456447,742.906685 Z" id="LOWER-LEFT-LOGO" fill="#FCD46B" opacity="0.497112772"></path>
             <text id="ADDRESS" transform="translate(344.000000, 520.000000) rotate(90.000000) translate(-344.000000, -520.000000) " font-family="SourceCodePro-Medium, Source Code Pro" font-size="18" font-weight="400" fill="#505566">
